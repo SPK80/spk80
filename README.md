@@ -69,7 +69,8 @@
              width="40" height="40"/></a>&nbsp;
 
 </div>
-<div align="center" style="margin-top:20px;">
+<br/>
+<div align="center">
     <a href="https://www.codewars.com/users/SPK80">
         <img src="https://www.codewars.com/users/SPK80/badges/small"
              title="CodeWars" alt="CodeWars"/>

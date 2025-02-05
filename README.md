@@ -2,14 +2,6 @@
 
 <div align="center">
     <a href="https://github.com/SPK80?tab=repositories">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SPK80&hide_border=true&stroke=888&ring=494&fire=D70&currStreakNum=D70&sideNums=888&dates=888&sideLabels=888&currStreakLabel=494&background=0000"
-             title="SPK80" alt="SPK80"
-             width="60%"/>
-    </a>
-</div>
-
-<div align="center">
-    <a href="https://github.com/SPK80?tab=repositories">
         <img src="https://github-readme-stats.vercel.app/api?username=SPK80&show_icons=true&count_private=true&hide_border=true&title_color=494&text_color=888&icon_color=494&bg_color=0000"
              title="SPK80 github stats" alt="SPK80 github stats"
              width="49%" height="200"/>
